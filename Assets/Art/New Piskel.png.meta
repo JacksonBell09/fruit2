@@ -133,10 +133,10 @@ TextureImporter:
       name: New Piskel_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 0
         y: 192
-        width: 37
-        height: 46
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: New Piskel_1
       rect:
         serializedVersion: 2
-        x: 79
-        y: 194
-        width: 37
-        height: 44
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: New Piskel_2
       rect:
         serializedVersion: 2
-        x: 143
-        y: 199
-        width: 39
-        height: 39
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +196,10 @@ TextureImporter:
       name: New Piskel_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 130
-        width: 37
-        height: 44
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,10 +217,10 @@ TextureImporter:
       name: New Piskel_4
       rect:
         serializedVersion: 2
-        x: 79
+        x: 64
         y: 128
-        width: 37
-        height: 46
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: New Piskel_5
       rect:
         serializedVersion: 2
-        x: 143
-        y: 131
-        width: 37
-        height: 43
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,10 +259,10 @@ TextureImporter:
       name: New Piskel_6
       rect:
         serializedVersion: 2
-        x: 15
-        y: 70
-        width: 37
-        height: 40
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -280,10 +280,10 @@ TextureImporter:
       name: New Piskel_7
       rect:
         serializedVersion: 2
-        x: 79
-        y: 67
-        width: 37
-        height: 43
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,10 +301,10 @@ TextureImporter:
       name: New Piskel_8
       rect:
         serializedVersion: 2
-        x: 143
-        y: 68
-        width: 37
-        height: 41
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: New Piskel_9
       rect:
         serializedVersion: 2
-        x: 15
-        y: 4
-        width: 37
-        height: 40
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -343,10 +343,10 @@ TextureImporter:
       name: New Piskel_10
       rect:
         serializedVersion: 2
-        x: 79
-        y: 4
-        width: 37
-        height: 42
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,7 +363,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5a80efb7c58f65c49b0b87ae99ac4a80
     internalID: 0
     vertices: []
     indices: 
