@@ -5,7 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class deathscreen : MonoBehaviour
 {
-    public string currentSceneName = SceneManager.GetActiveScene().name;
+    public string currentSceneName;
+    void Start()
+    {
+        currentSceneName = SceneManager.GetActiveScene().name;
+    }
     public void StartGame()
     {
         SceneManager.LoadScene(currentSceneName);
