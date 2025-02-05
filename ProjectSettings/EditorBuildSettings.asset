@@ -8,4 +8,44 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/startScreen.unity
+    guid: 7e66a2f495567bf44b0201fcf9f4713d
+  - enabled: 1
+    path: Assets/Scenes/Cam S1.unity
+    guid: c748c2ccf6808784ea85af2276828faf
+  - enabled: 1
+    path: Assets/Scenes/ds.unity
+    guid: 25975dcbfc09f67468b38d32bb9c6dfa
+  - enabled: 1
+    path: Assets/Scenes/Ethan S1.unity
+    guid: acf57433d8cd5ca4a9ebbb70de8dcdc5
+  - enabled: 1
+    path: Assets/Scenes/fruit.unity
+    guid: db16ef45ab590574db59b436ba7b559a
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 0c4b2a9be55e77e4b9170e74ffa33def
+  - enabled: 1
+    path: Assets/Scenes/JacksonS1.unity
+    guid: 8df1bcbf0c687554ea6bb9977d3baed6
+  - enabled: 1
+    path: Assets/Scenes/Kaylen s1.unity
+    guid: 75d7460b5b670d749bc37eed161b0147
+  - enabled: 1
+    path: Assets/Scenes/Transition.unity
+    guid: 9afdb1973c06e4b4892e7d8df4e9bb64
+  - enabled: 1
+    path: Assets/Scenes/Transition2.unity
+    guid: f4cf61bfbb2c84e4280bee44361c06ef
+  - enabled: 1
+    path: Assets/Scenes/WIN SCREEN.unity
+    guid: da2f726722f84ca4c8ff6101b5d25d09
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 023ead78b55e11b42adee52f2fcd61af
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9f5b9a05643e2604b865a4de96359709
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
