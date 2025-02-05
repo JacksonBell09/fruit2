@@ -1,17 +1,17 @@
-using System.Collections;
-using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class deathscreen : MonoBehaviour
+namespace Editor 
 {
-    public string currentSceneName;
-    void Start()
+
+    public class deathscreen : MonoBehaviour
     {
-        currentSceneName = SceneManager.GetActiveScene().name;
-    }
-    public void StartGame()
-    {
-        SceneManager.LoadScene(currentSceneName);
+        [MenuItem("Helpers/Restart Scene #R")]
+        public static void RestartScene()
+        {
+            var currentScene = SceneManager.GetActiveScene();
+            SceneManager.LoadScene(currentScene.name);
+        }
     }
 }
