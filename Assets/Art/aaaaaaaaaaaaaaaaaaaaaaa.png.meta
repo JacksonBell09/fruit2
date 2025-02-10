@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: 3c5852a0e62b5094c85a47c18e7f8ba7
+guid: d9227bd4ee18ffd4eb48ae209c2e508a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2629024425037199919
-    second: LUBIGDDGSUHDSHUJE  RRRRRRRRRRRRRRRRR AAAAAAAAAAUHHHHHHHHHHHHHHHHHH UHHHHHH
-      AHHH_0
+      213: -8276355160867113654
+    second: aaaaaaaaaaaaaaaaaaaaaaa_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -101,8 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LUBIGDDGSUHDSHUJE  RRRRRRRRRRRRRRRRR AAAAAAAAAAUHHHHHHHHHHHHHHHHHH UHHHHHH
-        AHHH_0
+      name: aaaaaaaaaaaaaaaaaaaaaaa_0
       rect:
         serializedVersion: 2
         x: 0
@@ -116,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2afa2019cb2c7420800000000000000
-      internalID: 2629024425037199919
+      spriteID: a457b89c4da742d80800000000000000
+      internalID: -8276355160867113654
       vertices: []
       indices: 
       edges: []
@@ -132,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      LUBIGDDGSUHDSHUJE  RRRRRRRRRRRRRRRRR AAAAAAAAAAUHHHHHHHHHHHHHHHHHH UHHHHHH AHHH_0: 2629024425037199919
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

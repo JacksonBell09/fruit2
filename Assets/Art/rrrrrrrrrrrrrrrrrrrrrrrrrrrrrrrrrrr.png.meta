@@ -1,11 +1,16 @@
 fileFormatVersion: 2
-guid: 3c5852a0e62b5094c85a47c18e7f8ba7
+guid: 4f54a656e4fab9a43bd7f1e19dc33b68
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2629024425037199919
-    second: LUBIGDDGSUHDSHUJE  RRRRRRRRRRRRRRRRR AAAAAAAAAAUHHHHHHHHHHHHHHHHHH UHHHHHH
-      AHHH_0
+      213: 6007803617713196476
+    second: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_0
+  - first:
+      213: 8522010535627359197
+    second: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_1
+  - first:
+      213: -4483324864454773058
+    second: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -101,14 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LUBIGDDGSUHDSHUJE  RRRRRRRRRRRRRRRRR AAAAAAAAAAUHHHHHHHHHHHHHHHHHH UHHHHHH
-        AHHH_0
+      name: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2100
-        height: 1500
+        y: 495
+        width: 1081
+        height: 1005
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -116,8 +120,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2afa2019cb2c7420800000000000000
-      internalID: 2629024425037199919
+      spriteID: cbd0a124f81006350800000000000000
+      internalID: 6007803617713196476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_1
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1340
+        width: 416
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3843c3e63444670800000000000000
+      internalID: 8522010535627359197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_2
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 445
+        width: 569
+        height: 1055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb63f791ac708c1c0800000000000000
+      internalID: -4483324864454773058
       vertices: []
       indices: 
       edges: []
@@ -132,8 +178,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      LUBIGDDGSUHDSHUJE  RRRRRRRRRRRRRRRRR AAAAAAAAAAUHHHHHHHHHHHHHHHHHH UHHHHHH AHHH_0: 2629024425037199919
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
