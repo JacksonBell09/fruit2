@@ -30,9 +30,9 @@ public class Movement : MonoBehaviour
     rb.velocity = moveVector;
 
     if (horizontalInput < 0){
-        transform.localScale = new Vector3(4, 3, 1);
-    } else if (horizontalInput > 0){
         transform.localScale = new Vector3(-4, 3, 1);
+    } else if (horizontalInput > 0){
+        transform.localScale = new Vector3(4, 3, 1);
     }
     
     }
