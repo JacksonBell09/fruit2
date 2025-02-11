@@ -274,7 +274,14 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bornana_0: -7516295380889077315
+      Bornana_1: -7334980633061753685
+      Bornana_2: 1357141278250159081
+      Bornana_3: 7784816470095225951
+      Bornana_4: -2575025564866858891
+      Bornana_5: 7530347815700102210
+      Bornana_6: 5218770343713391980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

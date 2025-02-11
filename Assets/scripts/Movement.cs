@@ -42,4 +42,18 @@ public class Movement : MonoBehaviour
         IsJumping = false;
     }
     }
+     private void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.gameObject.CompareTag("speednode"))
+        {
+            movespeed+=5f;
+            StartCoroutine(Speednode(other));
+        }
+    }
+    IEnumerator Speednode(Collider2D Player)
+    {
+        yield return new WaitForSeconds(5);
+        movespeed-=5f;
+    }
+
 }
