@@ -8,6 +8,7 @@ TagManager:
   - deathbar
   - speednode
   - jumpnode
+  - Enemy
   layers:
   - Default
   - TransparentFX
